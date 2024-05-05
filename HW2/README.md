@@ -1,6 +1,6 @@
 # HW2
 ### Using BeautifulSoup and Selenium
-- 執行檔為[hw2.py](HW2/hw2.py)
+- 執行檔為[hw2.py](https://github.com/KaiRex0912/LATIA112-2/blob/main/HW2/hw2.py)
 - 爬取網頁：<https://pleagueofficial.com/stat-player>
 ## 爬取內容 -- 中華職棒大聯盟2024一軍例行賽 野手成績
 - 打擊率
