@@ -27,8 +27,8 @@
 - 失誤
 - 犯規
 ## 爬取結果
-- [cpbl.csv](https://github.com/Demigodd28/LATIA112-2/blob/main/HW2/cpbl.csv)
-- 此表列出了 2024 中華職棒一軍例行賽野手之打擊排名(前15名)，其中內容由左至右依序為，排名、球隊球員、打擊率、出賽數打席、打數等資訊，也能由此表格了解，誰是這一年最好的打者
+- [pleague.csv](https://github.com/KaiRex0912/LATIA112-2/blob/main/HW2/pleague.csv)
+- 此表列出了 2024 P.League+之球員數據，其中內容由左至右依序為，球員、背號、得分、籃板等資訊，也能由此表格了解各個球員的數據
 -----------------------------------------------------
 # HW2_2
 ### Using Request and Beautifulsoup
