@@ -32,14 +32,14 @@
 -----------------------------------------------------
 # HW2_2
 ### Using Request and Beautifulsoup
-- 執行檔為[hw2_2.py](https://github.com/Demigodd28/LATIA112-2/blob/main/HW2/hw2_2.py)
-- 爬取網頁：<https://invoice.etax.nat.gov.tw/index.html>
+- 執行檔為[hw2_2.py](https://github.com/KaiRex0912/LATIA112-2/blob/main/HW2/hw2_2.py)
+- 爬取網頁：<https://invoice.etax.nat.gov.tw/lastNumber.html>
 ## 爬取內容 -- 財政部稅務入口網 統一發票號碼獎中獎號碼
-#### 113年01-02月中獎號碼單
+#### 112年11-12月中獎號碼單
 - 獎別
 - 中獎號碼
 - 獎金
 ## 爬取結果
-- [Lottery Number_113_Jan_Feb.csv](https://github.com/Demigodd28/LATIA112-2/blob/main/HW2/Lottery%20Number_113_Jan_Feb.csv)
-- 此表列出了113年01-02月中獎號碼單，其中內容由左至右依序為，獎別、中獎號碼、獎金等資訊，可藉由此表格快速得知中獎資訊
+- [Lottery Number_112_Nov_Dec.csv](https://github.com/KaiRex0912/LATIA112-2/blob/main/HW2/Lottery%20Number_112_Nov_Dec.csv)
+- 此表列出了112年11-12月中獎號碼單，其中內容由左至右依序為，獎別、中獎號碼、獎金等資訊，可藉由此表格快速得知中獎資訊
   
